@@ -1,4 +1,4 @@
-name = "oleg-landing"
+name = "olegpimsite"
 compatibility_date = "2026-06-09"
 
 # Статичний сайт без Worker-скрипта: Cloudflare віддає файли з ./public напряму.
