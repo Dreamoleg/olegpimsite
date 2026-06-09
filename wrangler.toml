@@ -1,0 +1,6 @@
+name = "oleg-landing"
+compatibility_date = "2026-06-09"
+
+# Статичний сайт без Worker-скрипта: Cloudflare віддає файли з ./public напряму.
+[assets]
+directory = "./public"
